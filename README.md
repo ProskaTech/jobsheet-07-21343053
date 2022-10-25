@@ -1,5 +1,7 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## Penjelasan Jobsheet 7
+
+Nama: Khalilul Afwan
+
+NIM: 21343053
+
+Penjelasan: Jobsheet 7 membahas tentang perulangan (looping) pada Java. Seperti bahasa pemrograman lainnya, pada bahasa pemrograman Java juga terdapat teknik perulangan yang terdiri dari perulangan FOR, perulangan WHILE, dan perulangan DO-WHILE. Perulangan FOR harus memiliki 3 ungkapan yang masing-masing dibatasi dengan tanda titik koma. Ungkapan ini memiliki masing-masing fungsi, yaitu: ungkapan 1 berfungsi untuk memberi inisialisasi terhadap variabel pengendali loop, ungkapan 2 berfungsi sebagai kondisi untuk keluar dari loop, dan ungkapan 3 berfungsi sebagai pengatur kenaikan nilai variabel pengendali loop. Setelah kondisi (ungkapan) diinisialisasi, maka barulah pernyataan yang akan dilakukan perulangan ditulis. Perulangan WHILE memiliki penulisan berbeda, yaitu perulangan WHILE akan melakukan pengecekan terhadap loop di bagian awal (sebelum tubuh loop). Perulangan DO-WHILE, pada perulangan ini tubuh loop berupa pernyataan. Kemudian dalam pernyataan do diisi dengan pernyataan yang akan diulang, lalu kondisi akan dicek dalam pernyataan while. Tiga perulangan di atas merupakan teknik dasar untuk melakukan sebuah teknik baru yang lebih rumit dinamakan sebagai Nested Loop (Perulangan Bersarang). Perulangan Bersarang adalah teknik yang di dalamnya terdapat beberapa teknik dasar perulangan. Sehingga pada implementasinya memungkinkan pemrogram untuk membuat perulangan yang rumit, seperti contohnya membuat pola tertentu.
